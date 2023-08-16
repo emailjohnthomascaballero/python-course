@@ -8,7 +8,7 @@
 Follow my journey as I dive into the world of Python programming. From the basics of variables and loops to building small projects, join me in exploring the power of Python!
 
 ## my todolist
-[notion](https://www.notion.so/Learn-Python-3cfa2ed1baf3494b967403368b4f302e?pvs=4)
+[notion](https://www.notion.so/Python-Programming-Checklist-for-Beginners-93c7b1fee3cb46cf9164793d6aeca0c3?pvs=4)
 
 ## useful links
 [phyton step by step visualizer](https://pythontutor.com/visualize.html#mode=edit)
