@@ -14,3 +14,7 @@ Follow my journey as I dive into the world of Python programming. From the basic
 [step by step visualizer](https://pythontutor.com/visualize.html#mode=edit)
 
 [cheatsheet by "Programming with Mosh"](https://programmingwithmosh.com/wp-content/uploads/2019/02/Python-Cheat-Sheet.pdf)
+
+## youtube tutorial
+
+[Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
